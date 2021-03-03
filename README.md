@@ -1,2 +1,33 @@
-# amigoedu-front-challenge
-Desafio do processo seletivo para vaga de pessoa desenvolvedora Front-end
+# Teste Front-end Amigo Edu
+
+Olá dev! Esse é o teste usado por nós aqui do Amigo Edu para avaliar nossos candidatos. Estamos sempre em buscas de profissionais interessados em aprender e se desenvolver.
+
+Esse teste nos aplicatamos para todos nossos candidatos desde os Júniores até os Sêniores, mudando somente nosso critério de avaliação. Você também não é obrigado a fazer o mesmo completamente, iremos avaliar até onde você foi.
+
+##  Desafio
+
+Seu objetivo aqui é fazer uma pokedex usando a [API Pokeapi.co](https://pokeapi.co/). O layout é para ser baseado no template que mandaremos aqui, mas você pode melhora-lo caso queira.
+
+Link do FIGMA para layout do projeto:
+
+https://www.figma.com/file/5Od6ASSqgKyoasRiCXXuvu/Pokedex?node-id=0%3A1
+
+## Regras
+
+- Deve ser usado React;
+- O site deve ser responsivo;
+- Não se pode usar nenhuma lib de UI Kit. Como Ant, Material UI, e.t.c.
+
+## Diferencias
+
+- Utilizar Typescript;
+- Utilizar um pré-processador ou css-in-js para estilização.
+
+## Sugestões de melhorias
+
+- Em vez de paginação, usar scroll infinito.
+
+## Instruções
+
+- Inicie um repositório, case seja privado, convide danilomartinelli429@gmail.com como maintainer;
+- Mande um email para danilo@amigoedu.com.br com o assunto: Teste Front-End e no corpo, seu nome completo e o link para o repositório.
