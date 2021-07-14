@@ -26,8 +26,8 @@ https://www.figma.com/file/5Od6ASSqgKyoasRiCXXuvu/Pokedex?node-id=0%3A1
 
 
 ## Instruções
-- Inicie um repositório, case seja privado, convide danilomartinelli429@gmail.com como maintainer;
-- Mande um email para danilo@amigoedu.com.br com o assunto: Teste Front-End e no corpo, seu nome completo e o link para o repositório.
+- Inicie um repositório, case seja privado, convide dygufa@gmail.com como maintainer;
+- Mande um email para rodrigo@amigoedu.com.br com o assunto: Teste Front-End e no corpo, seu nome completo e o link para o repositório.
 
 ## FAQ
 
